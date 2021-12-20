@@ -29,7 +29,7 @@ In this project, we explored the characteristics associated with demand for bus 
 ## Data Visualization Dashboards
 As mentioned above, we built dashboards for planners and city officials to better engage with data when making bus service improvement decisions. Here are the dashboards.
 
-### Dashboard 1: [Explorer of Socioeconomic Features (Chicago)](https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-j22p1aqo/panel/Socioeconomic_Features_Explorer?token=6AHF2sZ-Q2OA3l0I0Uz4Dg)
+### Dashboard 1: <a href="https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-j22p1aqo/panel/Socioeconomic_Features_Explorer?token=6AHF2sZ-Q2OA3l0I0Uz4Dg" target="_blank">Explorer of Socioeconomic Features (Chicago)</a>
 This link leads to the binder app for the histogram distribution of selected socioeconomic variables. Users can select variables from the dropdown box on the left. The plot on the right will help visualize the distribution of variables, which further could use to determine if data transformation is necessary. 
 
 ### Dashboard 2: Clustering Analysis (Chicago)
