@@ -40,5 +40,5 @@ This link leads to the binder app for the K-Means Clustering dashboard. On this 
 This link leads to the binder app for Cluster Analysis of Chicago Bus Ridership. On this dashboard page, users are able to adjust the number of clusters (2-8). The histogram shows how many observations in each clusters, and the map on the right shows the spatial distribution of the clusters.   
 
 
-### Dashboard 3: [Ridership Demand and Stops (Philadelphia)]()
+### Dashboard 3: [Ridership Demand and Stops (Philadelphia)](https://mybinder.org/v2/gh/MUSA-550-Fall-2021/final-project-city-hall-llc/HEAD?urlpath=%2Fpanel%2FRidership_Demand_and_Stops_Philadelphia)
 (space for binder and app)
