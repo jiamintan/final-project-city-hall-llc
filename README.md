@@ -10,7 +10,7 @@ This project acts as a preliminary proof-of-concept for the use of ridership pre
 Our analysis is consisted of several parts: data preparation, data exploration, regression and prediction, use case scenario, and conclusion.
 
 ## Data preparation
-For this project we need data to support our model building and use case discussion. We collected a month-long [ridership data]("https://data.cityofchicago.org/Transportation/CTA-Ridership-Avg-Weekday-Bus-Stop-Boardings-in-Oc/mq3i-nnqe") in 2012 from OpenDataChicago, socioeconomic data from census' 2015-2019 American Community Survey, and spatial features from OpenStreetMap.
+For this project we need data to support our model building and use case discussion. We collected a month-long [ridership data](https://data.cityofchicago.org/Transportation/CTA-Ridership-Avg-Weekday-Bus-Stop-Boardings-in-Oc/mq3i-nnqe) in 2012 from OpenDataChicago, socioeconomic data from census' 2015-2019 American Community Survey, and spatial features from OpenStreetMap.
 
 (for both Chicago for model building and Philadelphia for model use case), 
 ## Data exploration
