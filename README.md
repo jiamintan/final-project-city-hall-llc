@@ -30,14 +30,17 @@ In this project, we explored the characteristics associated with demand for bus 
 As mentioned above, we built dashboards for planners and city officials to better engage with data when making bus service improvement decisions. Here are the dashboards.
 
 ### Dashboard 1: Explorer of Socioeconomic Features (Chicago)
-(space for binder and app)
+https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-j22p1aqo/panel/Socioeconomic_Features_Explorer?token=6AHF2sZ-Q2OA3l0I0Uz4Dg
+This link leads to the binder app for the histogram distribution of selected socioeconomic variables. Users can select variables from the dropdown box on the left. The plot on the right will help visualize the distribution of variables, which further could use to determine if data transformation is necessary. 
 
 ### Dashboard 2: Clustering Analysis (Chicago)
 #### Cluster Analysis of Chicago Bus System - Scatterplot View
-(space for binder and app)
-
+https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-x8mji060/panel/K-Mean_Clustering?token=KKo3A1TFQsyjsaW3AT1qHg
+This link leads to the binder app for the K-Mean Clustering dashboard. On this dashboard page, users can adjust the x and y variables to see the scatter plot for selected variables. 
 #### Cluster Analysis of Chicago Bus System - Map View
-(space for binder and app)
+https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-7el8x3hd/panel/cluster_analysis_panel?token=oMwrwsCdQo6Kb8GbkrVLIg
+This link leads to the binder app for Cluster Analysis of Chicago Bus Ridership. On this dashboard page, users are able to adjust the number of clusters (2-8). The histogram shows how many observations in each clusters, and the map on the right shows the spatial distribution of the clusters.   
+
 
 ### Dashboard 3: Ridership Demand and Stops (Philadelphia)
 (space for binder and app)
