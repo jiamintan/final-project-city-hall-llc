@@ -1,4 +1,4 @@
-**Note: The main notebook we are using is [bus_ridership_project.ipynb](https://github.com/MUSA-550-Fall-2021/final-project-city-hall-llc/blob/main/bus_ridership_project.ipynb)**. <br /> The main notebook also uses this [LEHD Origin-Destination Employment Statistics (LODES) dataset](https://lehd.ces.census.gov/data/lodes/LODES7/il/od/il_od_main_JT00_2019.csv.gz) which is too large to be uploaded to GitHub. <br />Other notebooks above are used for panel dashboards. 
+**Note: The main notebook we are using is [bus_ridership_project.ipynb](https://github.com/MUSA-550-Fall-2021/final-project-city-hall-llc/blob/main/bus_ridership_project.ipynb)**. <br /> The main notebook also uses this [LEHD Origin-Destination Employment Statistics (LODES) dataset](https://lehd.ces.census.gov/data/lodes/LODES7/il/od/il_od_main_JT00_2019.csv.gz) which is too large to be uploaded to GitHub. <br />Other notebooks in this repository are used for panel dashboards. 
 
 # Bus Ridership Analysis and Prediction
 
