@@ -27,6 +27,7 @@ In this project, we explored the characteristics associated with demand for bus 
 
 
 # Data Visualization Dashboards
+As mentioned above, we built dashboards for planners and city officials to better engage with data when making bus service improvement decisions. Here are the dashboards.
 
 ## Dashboard 1: Explorer of Socioeconomic Features (Chicago)
 (space for binder and app)
