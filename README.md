@@ -36,7 +36,7 @@ This link leads to the binder app for the histogram distribution of selected soc
 #### [Cluster Analysis of Chicago Bus System - Scatterplot View](https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-x8mji060/panel/K-Mean_Clustering?token=KKo3A1TFQsyjsaW3AT1qHg)
 This link leads to the binder app for the K-Mean Clustering dashboard. On this dashboard page, users can adjust the x and y variables to see the scatter plot for selected variables. 
 
-#### [Cluster Analysis of Chicago Bus System - Map View](https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-7el8x3hd/panel/cluster_analysis_panel?token=oMwrwsCdQo6Kb8GbkrVLIg)
+#### [Cluster Analysis of Chicago Bus System - Map View](https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-55lgf4ql/panel/cluster_analysis_panel?token=jpXTg1S1T4a-knJZp5Lcww)
 This link leads to the binder app for Cluster Analysis of Chicago Bus Ridership. On this dashboard page, users are able to adjust the number of clusters (2-8). The histogram shows how many observations in each clusters, and the map on the right shows the spatial distribution of the clusters.   
 
 
