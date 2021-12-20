@@ -33,10 +33,10 @@ As mentioned above, we built dashboards for planners and city officials to bette
 This link leads to the binder app for the histogram distribution of selected socioeconomic variables. Users can select variables from the dropdown box on the left. The plot on the right will help visualize the distribution of variables, which further could use to determine if data transformation is necessary. 
 
 ### Dashboard 2: Clustering Analysis (Chicago)
-#### [Cluster Analysis of Chicago Bus System - Scatterplot View](https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-x8mji060/panel/K-Mean_Clustering?token=KKo3A1TFQsyjsaW3AT1qHg)
+#### [Cluster Analysis of Chicago Bus System - Scatterplot View](https://mybinder.org/v2/gh/MUSA-550-Fall-2021/final-project-city-hall-llc/HEAD?urlpath=%2Fpanel%2FK-Mean_Clustering)
 This link leads to the binder app for the K-Means Clustering dashboard. On this dashboard page, users can adjust the x and y variables to see the scatter plot for selected variables. 
 
-#### [Cluster Analysis of Chicago Bus System - Map View](https://hub.gke2.mybinder.org/user/musa-550-fall-2-t-city-hall-llc-55lgf4ql/panel/cluster_analysis_panel?token=jpXTg1S1T4a-knJZp5Lcww)
+#### [Cluster Analysis of Chicago Bus System - Map View](https://mybinder.org/v2/gh/MUSA-550-Fall-2021/final-project-city-hall-llc/HEAD?urlpath=%2Fpanel%2Fcluster_analysis_panel)
 This link leads to the binder app for Cluster Analysis of Chicago Bus Ridership. On this dashboard page, users are able to adjust the number of clusters (2-8). The histogram shows how many observations in each clusters, and the map on the right shows the spatial distribution of the clusters.   
 
 
