@@ -1,4 +1,4 @@
-**Note: The main notebook we are using is [bus_ridership_project.ipynb]()**
+**Note: The main notebook we are using is [bus_ridership_project.ipynb](https://github.com/MUSA-550-Fall-2021/final-project-city-hall-llc/blob/main/bus_ridership_project.ipynb)**
 
 # Bus Ridership Analysis and Prediction
 
