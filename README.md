@@ -1,3 +1,5 @@
+**Note: The main notebook we are using is [bus_ridership_project.ipynb]()**
+
 # Bus Ridership Analysis and Prediction
 
 CTA has 1,864 buses that make about 19,237 trips a day and serve 10,768 bus stops, according to the latest official tally in 2017. However, there is not much publicly available information on how the bus service has been used. What are the areas with lots of ridership? Are there any interesting spatial patterns? Are there areas with potential ridership demand, but are not accessible to a bus stop? This questions are even more important for cities without easily-accessible ridership data.
