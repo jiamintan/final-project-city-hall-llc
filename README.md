@@ -7,20 +7,23 @@ Through our project, we hope to gain a better understanding of the bus ridership
 This project acts as a preliminary proof-of-concept for the use of ridership prediction model in allocation bus services rather than a ready-to-use planning tool. We will discuss the limitations and next steps for transportation planners to build on in the future for the possibility of a more comprehensive and more useful tool.
 
 # Analysis
-Our analysis is consisted of several parts: data preparation, data exploration, regression and prediction, use case scenario, and conclusion.
+Our analysis is consisted of several parts: data preparation, data exploration, regression and prediction, use case scenario, and conclusion. While we provide a summary here, please see our jupyter notebook for the detailed analysis.
 
 ## Data preparation
-For this project we need data to support our model building and use case discussion. We collected a month-long [ridership data](https://data.cityofchicago.org/Transportation/CTA-Ridership-Avg-Weekday-Bus-Stop-Boardings-in-Oc/mq3i-nnqe) in 2012 from OpenDataChicago, socioeconomic data from census' 2015-2019 American Community Survey, and spatial features from OpenStreetMap.
+For this project we need data to support our model building and use case discussion. We collected a month-long [ridership data](https://data.cityofchicago.org/Transportation/CTA-Ridership-Avg-Weekday-Bus-Stop-Boardings-in-Oc/mq3i-nnqe) in 2012 from OpenDataChicago, socioeconomic data from census' 2015-2019 American Community Survey, and spatial features from OpenStreetMap at the block-group level. We wanted to use have the geographic level as small as possible to inform useful planning decision. We also collected socioeconomic data and spatial features data for Philadelphia.
 
-(for both Chicago for model building and Philadelphia for model use case), 
 ## Data exploration
-
+We used visuals to further understand the characteristics of our ridership, socioeconomi, and spatial data. First, we ploted the histogram to examine the distribution of our plausible explanatory variable. This had been turned into a dashboard as we think it would be helpful for city officials and planners to engage with the data easily in a dashboard. Next, we performed k-means clustering and depicted the clusters spatially. This had also been turned into a dashboard as dashboard enables users to engage with the clustering and understand them better. Then we made a correlation plot to illustrate the correlation among our variables.
 
 ## Regression and prediction
-## Use case scenario
-## Conclusion 
+In model building, we trained and tested on Chicago and then predicted the model on Philadelphia. We considered both linear regression and random forest. Our model performed fair on the training set but not so well on the testing set. This is understandable as bus ridership is associated with very complicated features and a future step would be to collect better variables for model building. 
 
-Please see our jupyter notebook for the detailed analysis.
+## Use case scenario
+Finally, we built a dashboard to show the predicted demand and existing bus stations for Philadelphia, as a city without publicly available ridership data. An advantage of this is that the planners can allocate bus services base on demand instead of what are already there. This may help planners to identify areas that have been overlooked in the previous planning process and also areas that have been overserved with current bus system.
+
+## Conclusion 
+In this project, we explored the characteristics associated with demand for bus service and built a model in the hope to help city officials allocate bus services based on ridership demand. Despite our effort, limitations exists. If we have more time, a next step would be perfecting the model. However, such models should be used with caution because bus ridership is a very complicated topic that is related with funding, equity, and social welfare. Each service change should be decided with thoughtful investigations and also engagement with the community.
+
 
 
 # Data Visualization Dashboards
