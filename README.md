@@ -41,5 +41,5 @@ This link leads to the binder app for Cluster Analysis of Chicago Bus Ridership.
 
 
 ### Dashboard 3: Ridership Demand and Stops (Philadelphia) 
-*Note: Since this one has large data size, it will experience a time out issue and so the url doesn't work. Please run through the notebook in order to see this app.*
+***Note: Since this one has large data size, it will experience a time out issue and so the url doesn't work. Please run through the notebook in order to see this app.***
 This link leads to the binder app for predicted Philadelphia bus ridership at block groups level. On this dashboard page, users are able to see the number of stops in an area and with predicted ridership or other socioeconomics variables.
